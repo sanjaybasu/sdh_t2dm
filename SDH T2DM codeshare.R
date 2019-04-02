@@ -3,7 +3,7 @@ setwd("~/Data/chrd")
 load("chrd_sub")
 setwd("~/Documents/Epi/Research/NCDs/T2DM/SDH_T2DM")
 library(readr)
-dm <- read_csv("~/Data/optum/ct/cta1c.csv") #pt-level data, deidentified
+dm <- read_csv("~/Data/cta1c.csv") #pt-level data, deidentified
 dm_sub = dm %>%
   filter(str_sub(Diag1,1L,3L)==250) %>%
   select(Diag1,Year,Gdr_Cd,Rslt_Nbr,Yrdob,GEOID)
