@@ -3,11 +3,11 @@
 Sanjay Basu1,2*, Rajiv Narayanaswamy3
 
 
-1 Center for Primary Care and Outcomes Research and Center for Population Health Sciences, Departments of Medicine and of Health Research and Policy, Stanford University
-2 Center for Primary Care, Harvard Medical School
+1 Research and Analytics, Collective Health
+2 School of Public Health, Imperial College London
 3 KPMG LLP
 
-*Email: basus@stanford.edu
+*Email: s.basu@imperial.ac.uk
 
 
 Background
