@@ -1,13 +1,14 @@
 # A prediction model for uncontrolled type 2 diabetes mellitus incorporating area-level social determinants of health
 
-Sanjay Basu1,2*, Rajiv Narayanaswamy3
+Sanjay Basu1,2,3*, Rajiv Narayanaswamy4
 
 
-1 Research and Analytics, Collective Health
-2 School of Public Health, Imperial College London
-3 KPMG LLP
+1 Center for Primary Care, Harvard Medical School
+2 Research and Analytics, Collective Health
+3 School of Public Health, Imperial College London
+4 KPMG LLP
 
-*Email: s.basu@imperial.ac.uk
+*Email: sanjay_basu@hms.harvard.edu
 
 
 Background
